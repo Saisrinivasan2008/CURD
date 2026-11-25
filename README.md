@@ -19,9 +19,17 @@ To develop a Django-based web application that performs CRUD (Create, Read, Upda
 
 ## PROGRAM
 
+<img width="1068" height="866" alt="Screenshot 2026-11-25 175412" src="https://github.com/user-attachments/assets/14c4808d-e874-4701-9afe-7fcb9e6c8b6e" />
+
+
+<img width="720" height="660" alt="Screenshot 2026-11-25 175626" src="https://github.com/user-attachments/assets/35fd633d-440e-47ae-b0d6-3c4c114c0891" />
+
+
+
 
 
 ## OUTPUT
+<img width="713" height="412" alt="Screenshot 2026-11-25 175750" src="https://github.com/user-attachments/assets/c4fb09bc-8842-4b05-9b7b-b71c21a88e68" />
 
 
 
