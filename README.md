@@ -1,5 +1,9 @@
 # EX.No: 03 DEVELOP A DJANGO-BASED CRUD APPLICATION
-## Date:
+## Date: 25/11/2026
+## Name: T.S.Sai Srinivasan
+## Department: Btech IT
+
+
 ## AIM
 
 To develop a Django-based web application that performs CRUD (Create, Read, Update, and Delete) operations on student records.
